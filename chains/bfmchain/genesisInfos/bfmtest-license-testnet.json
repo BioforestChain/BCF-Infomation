@@ -47,10 +47,10 @@
         "CUS-00"
     ],
     "assetRange": [],
-    "genesisBlockHash": "eb9ff1f39f1b4d912983875124f2accd163b6672a7838b252906274f2b83976358aa82228303eb4bd9c51d46b0c313cb592d986c5fed7c6c3f60a52b0ef20302",
-    "genesisBlockMagic": "VMOV4",
+    "genesisBlockHash": "30350631496d36b7ba7611d067f9ab68ea6b247ea312ffac4498fcd92b58febb48c024a8429379f00f79fc606d1ceffa11288e5791114365652e05acde0c900c",
+    "genesisBlockMagic": "E599K",
     "assetName": "BFMTEST",
     "chainName": "bfmetatest",
     "publicKey": "a4465fd76c16fcc458448076372abf1912cc5b150663a64dffefe550f96feadd",
-    "signature": "6e8eac767cefcc6379dfab6b639bf53dc880e0a5b5e0cd8c5aba7080623ac7e35cc5f8fbdd81c61dd37a37b21dfbf151c736d7e28f7f295f071e81a5e4005203"
+    "signature": "3b409ee3fa02fd1cd1398c0cbe49be04924a57f58839482a0061a8cb85e563fd0a935f00ed0b57318a817b406d56b101b42dd5a1b2a43655cf1f8b20a112dd05"
 }

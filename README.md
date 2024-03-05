@@ -12,8 +12,8 @@
 | bfmeta testnet    | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.5) | [testnet](./chains/bfmchain/genesisInfos/bfmtest-genesisBlock-testnet.json) | nP3ct8Ejv    | [click this](./chains//bfmchain/peers/testnet.json) |
 | ethmeta mainnet   | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.5) | [mainnet](./chains/ethmeta/genesisInfos/ethm-genesisBlock-mainnet.json)     | pJEe6438d6   | [click this](./chains//ethmeta/peers/mainnet.json) |
 | ethmeta testnet   | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.5) | [testnet](./chains/ethmeta/genesisInfos/ethm-genesisBlock-testnet.json)     | pJEe6438d6   | [click this](./chains//ethmeta/peers/testnet.json) |
-| bfchainv2 mainnet | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.4) | [mainnet](./chains/bfchainv2/genesisInfos/bft-genesisBlock-mainnet.json)    | pJEe6438d6   | [click this](./chains//bfchainv2/peers/mainnet.json) |
-| bfchainv2 testnet | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.4) | [testnet](./chains/bfchainv2/genesisInfos/bft-genesisBlock-testnet.json)    | pJEe6438d6   | [click this](./chains//bfchainv2/peers/testnet.json) |
+| bfchainv2 mainnet | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.5) | [mainnet](./chains/bfchainv2/genesisInfos/bft-genesisBlock-mainnet.json)    | pJEe6438d6   | [click this](./chains//bfchainv2/peers/mainnet.json) |
+| bfchainv2 testnet | [download](https://github.com/BioforestChain/BCF-Infomation/releases/tag/v0.0.5) | [testnet](./chains/bfchainv2/genesisInfos/bft-genesisBlock-testnet.json)    | pJEe6438d6   | [click this](./chains//bfchainv2/peers/testnet.json) |
 
 ## 节点管理器
 

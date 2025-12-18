@@ -21,15 +21,16 @@
 
 | 链                | 节点管理器默认端口 | 节点默认密码 |
 | ----------------- | :----------------- | ------------ |
-| bfmeta mainnet    | 22003              | nP3ct8Ejv    |
-| bfmeta testnet    | 19003              | nP3ct8Ejv    |
+| bfmeta mainnet    | 22003              | Bfchain2020    |
+| bfmeta testnet    | 19003              | Bfchain2020    |
 | ethmeta mainnet   | 24003              | pJEe6438d6   |
 | ethmeta testnet   | 19603              | pJEe6438d6   |
 | bfchainv2 mainnet | 25003              | pJEe6438d6   |
 | bfchainv2 testnet | 19703              | pJEe6438d6   |
 
 ## Changelog - 更新日志
-
+- 2025/12/18
+- 更新bfmeta节点 3.8.2.1
 - 2024/01/11
 - 发布 ethmeta/bfmeta 节点版本 3.7.2.11
 - 2023/10/09
